@@ -1,0 +1,8 @@
+__pycache__/
+python/__pycache__/
+*.pyc
+python/render_assist_settings.json
+python/tab_stats.dat
+launch_status.txt
+launch_second_nuke_status.txt
+nuke_process_tree.txt
